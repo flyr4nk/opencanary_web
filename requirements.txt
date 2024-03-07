@@ -5,3 +5,4 @@ sqlalchemy
 pymysql
 configparser
 apscheduler
+jwcrypto>=1.5.6 # not directly required, pinned by Snyk to avoid a vulnerability
